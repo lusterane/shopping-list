@@ -4,3 +4,6 @@ Simple shopping list written using React
 
 ## What is it?
 This is a shopping list written with the React library to help me learn React. This follows Mosh's tutorial https://www.youtube.com/watch?v=Ke90Tje7VS0
+
+## Dependenices
+* bootstrap 4.1.1
